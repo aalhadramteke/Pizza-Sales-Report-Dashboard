@@ -1,4 +1,4 @@
-# 🍕 Pizza Sales Reprt Dashboard
+# 🍕 Pizza Sales Report Dashboard
 
 A comprehensive **Power BI Dashboard** designed to analyze pizza sales performance, identify key sales trends, evaluate peak order times, and provide actionable business insights for menu optimization and revenue growth.
 
